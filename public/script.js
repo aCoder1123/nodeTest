@@ -1,5 +1,4 @@
 let button = document.getElementById("gen")
-var QRCode = require("./qrcode");
 var canvas = document.getElementById("canvas");
 
 button.onclick = () => {
